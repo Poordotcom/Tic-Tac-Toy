@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/X7YM4aAkGcXrX9fxLb/giphy.gif" alt="Tic Tac Toy Animation" width="600">
+  <img src="https://github.com/Poordotcom/Tic-Tac-Toy/blob/main/assets/screenShot.png" alt="Tic Tac Toy Animation" width="600">
 </p>
 
 Tic Tac Toy is a simple command-line implementation of the classic Tic Tac Toe game written in C++. It allows two players to take turns placing their respective symbols ('X' and 'O') on a 3x3 grid until one player wins or the game ends in a draw.
