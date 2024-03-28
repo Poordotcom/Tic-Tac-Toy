@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ABC123.jpg" alt="Tic Tac Toy" width="400">
+  <img src="https://www.lexaloffle.com/media/62348/tictac_1.gif" alt="Tic Tac Toy" width="400">
 </p>
 
 <h1 align="center">Tic Tac Toy</h1>
@@ -41,4 +41,4 @@ Tic Tac Toy is a simple command-line implementation of the classic Tic Tac Toe g
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tic-tac-toy.git
+   git clone https://github.com/Poordotcom/tic-tac-toy.git
